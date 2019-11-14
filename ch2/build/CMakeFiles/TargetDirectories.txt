@@ -1,3 +1,0 @@
-/home/ls/slambook_self_practice/ch2/build/CMakeFiles/rebuild_cache.dir
-/home/ls/slambook_self_practice/ch2/build/CMakeFiles/hellslam.dir
-/home/ls/slambook_self_practice/ch2/build/CMakeFiles/edit_cache.dir
